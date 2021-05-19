@@ -5,17 +5,14 @@ and Plugy versions 7.00, 8.00, 9.00, 10.00, 10.01, 11.00, 11.01, 11.02, 12.00, 1
 Before installing, ALWAYS make a backup copy of the characters, or better, a backup of the entire \ save folder
 
 Installation via d2mod.ini
-
 [D2MOD]
 D2Save64kb = D2Save64kb.dll
 
 or Plugy.ini
-
 [GENERAL]
 DllToLoad = D2Save64kb.dll
 
 or D2SE_SETUP.ini
-
 [Protected]
 ModDll1=D2Save64kb.dll
 
@@ -44,17 +41,14 @@ Based on D2Template	https://github.com/ThePhrozenKeep/D2Template
 Перед установкой ОБЯЗАТЕЛЬНО сделайте резервную копию персонажей, а лучше резервную копию всей папки \save
 
 Установка через d2mod.ini
-
 [D2MOD]
 D2Save64kb=D2Save64kb.dll
 
 или Plugy.ini
-
 [GENERAL]
 DllToLoad=D2Save64kb.dll
 
 или D2SE_SETUP.ini
-
 [Protected]
 ModDll1=D2Save64kb.dll
 
